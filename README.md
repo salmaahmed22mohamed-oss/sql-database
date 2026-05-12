@@ -20,7 +20,7 @@ The Car Rental System is a database project that handles the core operations of 
 
 ---
 
-## 🗃️ Database Schema
+##  Database Schema
 
 | Table | Description |
 
